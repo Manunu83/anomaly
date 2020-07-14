@@ -1,6 +1,7 @@
 {
   "granularity": "daily",
-  "series": [
+  "series":
+[
     {
     "timestamp": "2019-02-05T02:41:00Z",
     "value": 141
@@ -208,5 +209,6 @@
   {
     "timestamp": "2019-02-18T03:16:00Z",
     "value": 622
-  }]
+  }
+]
 }
