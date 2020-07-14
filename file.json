@@ -1,0 +1,213 @@
+{
+  "granularity": "daily",
+  "series":[
+  {
+    "timestamp": "2019-02-05T02:41:00Z",
+    "value": 141
+  },
+  {
+    "timestamp": "2019-02-05T06:59:00Z",
+    "value": 134
+  },
+  {
+    "timestamp": "2019-02-05T07:21:00Z",
+    "value": 116
+  },
+  {
+    "timestamp": "2019-02-05T09:11:00Z",
+    "value": 17
+  },
+  {
+    "timestamp": "2019-02-05T10:05:00Z",
+    "value": 151
+  },
+  {
+    "timestamp": "2019-02-05T16:06:00Z",
+    "value": 149
+  },
+  {
+    "timestamp": "2019-02-06T01:57:00Z",
+    "value": 192
+  },
+  {
+    "timestamp": "2019-02-06T04:02:00Z",
+    "value": 163
+  },
+  {
+    "timestamp": "2019-02-06T05:54:00Z",
+    "value": 157
+  },
+  {
+    "timestamp": "2019-02-06T10:51:00Z",
+    "value": 149
+  },
+  {
+    "timestamp": "2019-02-06T15:41:00Z",
+    "value": 73
+  },
+  {
+    "timestamp": "2019-02-06T19:45:00Z",
+    "value": 196
+  },
+  {
+    "timestamp": "2019-02-07T02:49:00Z",
+    "value": 182
+  },
+  {
+    "timestamp": "2019-02-07T03:07:00Z",
+    "value": 84
+  },
+  {
+    "timestamp": "2019-02-07T05:09:00Z",
+    "value": 179
+  },
+  {
+    "timestamp": "2019-02-07T07:40:00Z",
+    "value": 897
+  },
+  {
+    "timestamp": "2019-02-07T14:10:00Z",
+    "value": 239
+  },
+  {
+    "timestamp": "2019-02-07T22:36:00Z",
+    "value": 241
+  },
+  {
+    "timestamp": "2019-02-08T01:41:00Z",
+    "value": 128
+  },
+  {
+    "timestamp": "2019-02-08T02:18:00Z",
+    "value": 168
+  },
+  {
+    "timestamp": "2019-02-08T02:52:00Z",
+    "value": 120
+  },
+  {
+    "timestamp": "2019-02-08T04:37:00Z",
+    "value": 95
+  },
+  {
+    "timestamp": "2019-02-08T12:03:00Z",
+    "value": 44
+  },
+  {
+    "timestamp": "2019-02-09T01:41:00Z",
+    "value": 248
+  },
+  {
+    "timestamp": "2019-02-09T04:10:00Z",
+    "value": 170
+  },
+  {
+    "timestamp": "2019-02-09T08:34:00Z",
+    "value": 89
+  },
+  {
+    "timestamp": "2019-02-09T10:49:00Z",
+    "value": 241
+  },
+  {
+    "timestamp": "2019-02-10T01:52:00Z",
+    "value": 167
+  },
+  {
+    "timestamp": "2019-02-10T02:11:00Z",
+    "value": 199
+  },
+  {
+    "timestamp": "2019-02-10T10:09:00Z",
+    "value": 80
+  },
+  {
+    "timestamp": "2019-02-10T13:53:00Z",
+    "value": 158
+  },
+  {
+    "timestamp": "2019-02-11T04:40:00Z",
+    "value": 132
+  },
+  {
+    "timestamp": "2019-02-11T05:54:00Z",
+    "value": 183
+  },
+  {
+    "timestamp": "2019-02-11T10:50:00Z",
+    "value": 55
+  },
+  {
+    "timestamp": "2019-02-12T04:06:00Z",
+    "value": 113
+  },
+  {
+    "timestamp": "2019-02-12T05:04:00Z",
+    "value": 866
+  },
+  {
+    "timestamp": "2019-02-12T11:31:00Z",
+    "value": 215
+  },
+  {
+    "timestamp": "2019-02-12T13:18:00Z",
+    "value": 306
+  },
+  {
+    "timestamp": "2019-02-12T13:23:00Z",
+    "value": 158
+  },
+  {
+    "timestamp": "2019-02-12T13:40:00Z",
+    "value": 204
+  },
+  {
+    "timestamp": "2019-02-12T14:01:00Z",
+    "value": 223
+  },
+  {
+    "timestamp": "2019-02-12T22:52:00Z",
+    "value": 22
+  },
+  {
+    "timestamp": "2019-02-13T04:47:00Z",
+    "value": 110
+  },
+  {
+    "timestamp": "2019-02-14T03:19:00Z",
+    "value": 174
+  },
+  {
+    "timestamp": "2019-02-14T03:51:00Z",
+    "value": 89
+  },
+  {
+    "timestamp": "2019-02-14T13:14:00Z",
+    "value": 201
+  },
+  {
+    "timestamp": "2019-02-15T08:25:00Z",
+    "value": 168
+  },
+  {
+    "timestamp": "2019-02-16T12:41:00Z",
+    "value": 174
+  },
+  {
+    "timestamp": "2019-02-16T15:34:00Z",
+    "value": 165
+  },
+  {
+    "timestamp": "2019-02-17T11:30:00Z",
+    "value": 160
+  },
+  {
+    "timestamp": "2019-02-17T14:17:00Z",
+    "value": 137
+  },
+  {
+    "timestamp": "2019-02-18T03:16:00Z",
+    "value": 622
+  }
+]
+}
